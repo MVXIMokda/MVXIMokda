@@ -1,3 +1,10 @@
-<h1 align="center">Hi there</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="36"/></h1>
-<h3 align="center">Backend-developer</h3>
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2k3ZmN2Y3ZiYWNpY2ZrNjNrcWk2MzFpbDJrMjlybHN0NDl5ZW84ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VFHpBIMdOWteabwcdb/giphy.gif" width="250"/>
+</div>
+<div id="badges">
+  <a href="https://t.me/MVXIMokda">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
+
+
