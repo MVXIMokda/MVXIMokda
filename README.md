@@ -8,7 +8,9 @@
     <a href="https://t.me/MVXIMokda">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram"/>
     </a>
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
+
 
 
 
