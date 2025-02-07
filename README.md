@@ -22,12 +22,7 @@ I am backend-developer from Russia, Kazan <img src="https://media0.giphy.com/med
 - I'm studying computer science at a university
 
 
-<h1>
-    Languages And Tools
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnI5MGlmcnN1bzlodW1wMDI0OHZ5dzE4bHJ2MGg4eDYwaDZ6bmlvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhQuegHFqkVYuFMXMQ/giphy.gif
-    " width="40px"/>
-:
-</h1>
+## :hammer_and_wrench: Languages And Tools:
 
 
 <div>
