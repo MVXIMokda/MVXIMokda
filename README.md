@@ -12,12 +12,24 @@
 </h1>
 </div>
 
-### :technologist: About me:
+<div id="header" align="center">
+  <img src="https://i.gifer.com/yH.gif" width="190"/>
+</div>
+
+###
+
+## :technologist: About me:
 I am backend-developer from Russia, Kazan <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjc3MmJza2QxbGF1czlyZDI4aHNpZmVqNDJib3hrMDJxY3R0MzJiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20">
 - Actively looking for a job
 - I'm studying computer science at a university
 
-### Languages and Tools :
+
+<h1>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnI5MGlmcnN1bzlodW1wMDI0OHZ5dzE4bHJ2MGg4eDYwaDZ6bmlvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhQuegHFqkVYuFMXMQ/giphy.gif
+" width="40px"/>
+    Languages And Tools: 
+</h1>
+
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/go/go-original-wordmark.svg" title="Go" alt="go" width="50" height="50"/>&nbsp;
@@ -27,7 +39,6 @@ I am backend-developer from Russia, Kazan <img src="https://media0.giphy.com/med
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>
 </div>
-
 
 
 
