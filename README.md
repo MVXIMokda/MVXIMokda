@@ -15,7 +15,7 @@
       &ensp; &ensp; &ensp; &nbsp;Go infrastructure <br>
       &ensp; &ensp; &ensp; &nbsp;Process Optimization & Workflow Automation
     </td>
-    <td width="65%" align="center">
+    <td width="55%" align="center">
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdsajJ6eGY0eHdyOTNneGlrYnR2YzdvbnRiaXQ5Y2FmbTQ2YWkxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eqZhHFK7D9MossGtth/giphy.gif" width="300" style="border-radius: 10px;"/>
     </td>
   </tr>
