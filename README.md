@@ -19,7 +19,7 @@
       &ensp; &ensp; &ensp; &ensp;Process Optimization & Automation
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/eqZhHFK7D9MossGtth/giphy.gif](https://github.com/user-attachments/assets/aba7e967-ba3e-4eee-8d35-f59694983561" width="300" style="max-width:100%; border-radius: 10px;"/>
+      <img src="https://github.com/user-attachments/assets/aba7e967-ba3e-4eee-8d35-f59694983561" width="300" style="max-width:100%; border-radius: 10px;"/>
     </td>
   </tr>
 </table>
