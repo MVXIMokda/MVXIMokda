@@ -62,7 +62,7 @@
 
 <p align="center">
   <a href="https://music.yandex.ru/playlists/5f0aaab0-2e44-7209-a38a-fee21345f047?utm_source=desktop&utm_medium=copy_link">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=tokyonight&show_owner=true&title_color=943636&icon_color=943636" width="0" height="0" /> <img src="https://capsule-render.vercel.app/api?type=rounded&height=100&color=181818&text=▶%20My%20Playlist&fontColor=E6E7EB&fontSize=40" width="60%" />
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&height=100&color=181818&text=▶%20My%20Playlist&fontColor=E6E7EB&fontSize=40" width="60%" />
   </a>
 </p>
 
