@@ -1,19 +1,16 @@
 # MVXIMokda <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHd5b3F3YTNsdnM5bXh1c3M1amVqdmsxc3JmNjdhNjU5anRwY2oydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hMvfHRHC3f6sapMzrS/giphy.gif" width="30">
 
 <p align="center">
-      <img src="https://github.com/user-attachments/assets/aba7e967-ba3e-4eee-8d35-f59694983561" width="60%" style="border-radius: 15px"/>
+      <img src="https://github.com/user-attachments/assets/aba7e967-ba3e-4eee-8d35-f59694983561" width="60%"/>
     </p>
-
-<p align="center" boarder="0" >
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=170&color=BA0233&text=Backend%20Developer&fontSize=70&fontColor=E6E7EB" width="80%"/>
-</p>
-
 
 <p align="center" boarder="0">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=170&color=BA0233&text=About%20me&fontColor=E6E7EB&fontSize=70" width="60%"/>
-  <br>
 </p>
 
+<p align="left" boarder="0" >
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=120&color=BA0233&text=I'm%20Backend%20Developer&fontSize=70&fontColor=E6E7EB" width="30%"/>
+</p>
 
 <p align="left">
   &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp;• <b>📍 Location:</b> Kazan, Russia<br>
@@ -22,6 +19,14 @@
   &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp;Go infrastructure<br>
   &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp;Process Optimization & Automation
 </p>
+
+<p align="center">
+  <a href="https://t.me/MVXIMokda">
+    <img src="https://img.shields.io/badge/Telegram-BA0233?style=for-the-badge&logo=telegram&logoColor=C3BA9F" />
+  </a>
+</p>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=170&color=BA0233&text=Languages%20and%20Tools&fontColor=E6E7EB&fontSize=60" width="60%"/>
@@ -33,12 +38,11 @@
   </a>
 </p>
 
-<br>
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=170&color=BA0233&text=My%20Workspace&fontColor=E6E7EB&fontSize=60" width="60%"/>
 </p>
-
 
 <table align="center">
   <tr>
@@ -56,14 +60,6 @@
 </table>
 
 ![snake gif](https://github.com/MVXIMokda/MVXIMokda/blob/output/github-snake-dark.svg)
-
-<br>
-
-<p align="center">
-  <a href="https://t.me/MVXIMokda">
-    <img src="https://img.shields.io/badge/Telegram-BA0233?style=for-the-badge&logo=telegram&logoColor=C3BA9F" />
-  </a>
-</p>
 
 
 
