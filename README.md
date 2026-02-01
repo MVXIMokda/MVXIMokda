@@ -2,7 +2,7 @@
 
 <p align="center">
       <img src="https://github.com/user-attachments/assets/aba7e967-ba3e-4eee-8d35-f59694983561" width="60%"/>
-    </p>
+</p>
 
 <p align="center" boarder="0">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=170&color=C92243&text=About%20me&fontColor=E6E7EB&fontSize=70" width="60%"/>
