@@ -1,30 +1,27 @@
 # MVXIMokda <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHd5b3F3YTNsdnM5bXh1c3M1amVqdmsxc3JmNjdhNjU5anRwY2oydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hMvfHRHC3f6sapMzrS/giphy.gif" width="30">
 
 <p align="center" boarder="0" >
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=170&color=BA0233&text=Backend%20Developer&fontSize=70&fontColor=E6E7EB" width="60%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=170&color=BA0233&text=Backend%20Developer&fontSize=70&fontColor=E6E7EB" width="80%"/>
 </p>
 
 
+<p align="center">
+      <img src="https://github.com/user-attachments/assets/aba7e967-ba3e-4eee-8d35-f59694983561" width="100%" style="border-radius: 15px;"/>
+    </p>
+
+<p align="center" boarder="0">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=170&color=BA0233&text=About%20me&fontColor=E6E7EB&fontSize=70" width="60%"/>
+  <br>
+</p>
 
 
-<table align="center" border="0">
-  <tr>
-    <td width="45%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rounded&height=100&color=BA0233&text=About%20me&fontColor=E6E7EB&fontSize=45" width="100%"/>
-      <br><br>
-      • <b>📍 Location:</b> Kazan, Russia<br>
-      • <b>🎓 Education:</b> Computer Science Student<br>
-      • <b>🏗️ Focus:</b> Scalable backend systems<br> 
-      &ensp; &ensp; &ensp; &ensp;Go infrastructure<br>
-      &ensp; &ensp; &ensp; &ensp;Process Optimization & Automation
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/aba7e967-ba3e-4eee-8d35-f59694983561" width="300" style="max-width:100%; border-radius: 10px;"/>
-    </td>
-  </tr>
-</table>
-
-<br>
+<p align="left">
+  • <b>📍 Location:</b> Kazan, Russia<br>
+  • <b>🎓 Education:</b> Computer Science Student<br>
+  • <b>🏗️ Focus:</b> Scalable backend systems<br> 
+  &ensp; &ensp; &ensp; &ensp;Go infrastructure<br>
+  &ensp; &ensp; &ensp; &ensp;Process Optimization & Automation
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=170&color=BA0233&text=Languages%20and%20Tools&fontColor=E6E7EB&fontSize=60" width="60%"/>
