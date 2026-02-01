@@ -1,13 +1,13 @@
 # MVXIMokda <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHd5b3F3YTNsdnM5bXh1c3M1amVqdmsxc3JmNjdhNjU5anRwY2oydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hMvfHRHC3f6sapMzrS/giphy.gif" width="30">
 
+<p align="center">
+      <img src="https://github.com/user-attachments/assets/aba7e967-ba3e-4eee-8d35-f59694983561" width="60%" style="border-radius: 15px"/>
+    </p>
+
 <p align="center" boarder="0" >
   <img src="https://capsule-render.vercel.app/api?type=venom&height=170&color=BA0233&text=Backend%20Developer&fontSize=70&fontColor=E6E7EB" width="80%"/>
 </p>
 
-
-<p align="center">
-      <img src="https://github.com/user-attachments/assets/aba7e967-ba3e-4eee-8d35-f59694983561" width="60%" style="border-radius: 15px"/>
-    </p>
 
 <p align="center" boarder="0">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=170&color=BA0233&text=About%20me&fontColor=E6E7EB&fontSize=70" width="60%"/>
@@ -16,11 +16,11 @@
 
 
 <p align="left">
-  • <b>📍 Location:</b> Kazan, Russia<br>
-  • <b>🎓 Education:</b> Computer Science Student<br>
-  • <b>🏗️ Focus:</b> Scalable backend systems<br> 
-  &ensp; &ensp; &ensp; &ensp;Go infrastructure<br>
-  &ensp; &ensp; &ensp; &ensp;Process Optimization & Automation
+  &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp;• <b>📍 Location:</b> Kazan, Russia<br>
+  &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp;• <b>🎓 Education:</b> Computer Science Student<br>
+  &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp;• <b>🏗️ Focus:</b> Scalable backend systems<br> 
+  &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp;Go infrastructure<br>
+  &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp;Process Optimization & Automation
 </p>
 
 <p align="center">
