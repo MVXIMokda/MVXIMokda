@@ -1,13 +1,13 @@
 # MVXIMokda <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHd5b3F3YTNsdnM5bXh1c3M1amVqdmsxc3JmNjdhNjU5anRwY2oydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hMvfHRHC3f6sapMzrS/giphy.gif" width="30">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=943636&text=Backend%20Developer&textBg=false&fontColor=C3BA9F&section=header&reversal=false&fontSize=70&animation=twinkling"/>
+<p align="center" boarder="0" >
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=943636&text=Backend%20Developer&textBg=false&fontColor=C3BA9F&section=header&reversal=false&fontSize=60&animation=twinkling" width="80%"/>
 </p>
 
 <table align="center" border="0">
   <tr>
     <td width="55%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=cylinder&height=100&color=943636&text=About%20me&animation=twinkling&fontColor=C3BA9F&fontSize=45"/>
+      <img src="https://capsule-render.vercel.app/api?type=rounded&height=100&color=943636&text=About%20me&animation=twinkling&fontColor=C3BA9F&fontSize=45"/>
       <br>
       • <b>📍 Location:</b> Kazan, Russia<br>
       • <b>🎓 Education:</b> Computer Science Student<br>
@@ -24,7 +24,7 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=943636&text=Languages%20and%20Tools&animation=twinkling&fontColor=C3BA9F&fontSize=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=943636&text=Languages%20and%20Tools&animation=twinkling&fontColor=C3BA9F&fontSize=60" width="80%"/>
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=943636&text=My%20Workspace&animation=twinkling&fontColor=C3BA9F&fontSize=50" width=""/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=943636&text=My%20Workspace&animation=twinkling&fontColor=C3BA9F&fontSize=60" width="80%"/>
 </p>
 
 
