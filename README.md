@@ -9,7 +9,7 @@
 </p>
 
 <p align="left" boarder="0" >
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=120&color=BA0233&text=I'm%20Backend%20Developer&fontSize=70&fontColor=E6E7EB" width="30%"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=120&color=gradient&text=I'm%20Backend%20Developer&fontSize=70&fontColor=E6E7EB" width="30%"/>
 </p>
 
 <p align="left">
