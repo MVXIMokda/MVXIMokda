@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,docker,python,postgres,redis,figma,git,kafka&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=go,docker,python,postgres,redis,figma,arch,git,kafka&theme=dark" />
   </a>
 </p>
 
