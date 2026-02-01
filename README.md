@@ -33,6 +33,24 @@ I am backend-developer from Russia, Kazan <img src="https://media0.giphy.com/med
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
 </div>
 
+# Hi there, I'm Maxim 👋 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=gradient&text=Backend%20Developer&textBg=false&fontColor=FFFFFF&section=header&reversal=false&fontSize=70&animation=twinkling"/>
+</p>
+
+## 🛠 Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=go,python,postgres,docker,git,kafka,redis&theme=light)](https://skillicons.dev)
+
+![snake gif](https://github.com/MVXIMokda/MVXIMokda/blob/output/github-snake-dark.svg)
+
+<p align="center">
+  <a href="https://t.me/MVXIMokda">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+
 
 
 
