@@ -13,11 +13,12 @@
 </p>
 
 <p align="left">
-  &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp;• <b>📍 Location:</b> Kazan, Russia<br>
-  &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp;• <b>🎓 Education:</b> Computer Science Student<br>
-  &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp;• <b>🏗️ Focus:</b> Scalable backend systems<br> 
-  &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp;Go infrastructure<br>
-  &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp;Process Optimization & Automation
+  &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp;<b>📍 Location:</b> Kazan, Russia<br>
+  &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp;<b>🎓 Education:</b> Computer Science Student<br>
+  &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp;<b>🏗️ Focus:</b> <br>
+  &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp;• Scalable backend systems<br> 
+  &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp;• Go infrastructure<br>
+  &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp; &ensp;&ensp; &ensp; &ensp;• Process Optimization & Automation
 </p>
 
 <p align="center">
