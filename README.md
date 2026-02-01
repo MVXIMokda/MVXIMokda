@@ -1,22 +1,22 @@
 # MVXIMokda <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHd5b3F3YTNsdnM5bXh1c3M1amVqdmsxc3JmNjdhNjU5anRwY2oydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hMvfHRHC3f6sapMzrS/giphy.gif" width="30">
 
 <p align="center" boarder="0" >
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=943636&text=Backend%20Developer&textBg=false&fontColor=C3BA9F&section=header&reversal=false&fontSize=60&animation=twinkling" width="60%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=170&color=BA0233&text=Backend%20Developer&fontSize=70&fontColor=E6E7EB" width="60%"/>
 </p>
 
 <table align="center" border="0">
   <tr>
     <td width="45%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rounded&height=100&color=943636&text=About%20me&animation=twinkling&fontColor=C3BA9F&fontSize=45"/>
-      <br>
+      <img src="https://capsule-render.vercel.app/api?type=rounded&height=100&color=BA0233&text=About%20me&fontColor=E6E7EB&fontSize=45" width="100%"/>
+      <br><br>
       • <b>📍 Location:</b> Kazan, Russia<br>
       • <b>🎓 Education:</b> Computer Science Student<br>
-      • <b>🏗️ Focus:</b> Scalable backend systems <br> 
-      &ensp; &ensp; &ensp; &nbsp;Go infrastructure <br>
-      &ensp; &ensp; &ensp; &nbsp;Process Optimization & Workflow Automation
+      • <b>🏗️ Focus:</b> Scalable backend systems<br> 
+      &ensp; &ensp; &ensp; &ensp;Go infrastructure<br>
+      &ensp; &ensp; &ensp; &ensp;Process Optimization & Automation
     </td>
-    <td width="55%" align="center">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdsajJ6eGY0eHdyOTNneGlrYnR2YzdvbnRiaXQ5Y2FmbTQ2YWkxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eqZhHFK7D9MossGtth/giphy.gif" width="300" style="border-radius: 10px;"/>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/eqZhHFK7D9MossGtth/giphy.gif" width="300" style="max-width:100%; border-radius: 10px;"/>
     </td>
   </tr>
 </table>
@@ -24,7 +24,7 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=943636&text=Languages%20and%20Tools&animation=twinkling&fontColor=C3BA9F&fontSize=60" width="60%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=170&color=BA0233&text=Languages%20and%20Tools&fontColor=E6E7EB&fontSize=60" width="60%"/>
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=943636&text=My%20Workspace&animation=twinkling&fontColor=C3BA9F&fontSize=60" width="60%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=170&color=BA0233&text=My%20Workspace&fontColor=E6E7EB&fontSize=60" width="60%"/>
 </p>
 
 
@@ -61,7 +61,7 @@
 
 <p align="center">
   <a href="https://t.me/MVXIMokda">
-    <img src="https://img.shields.io/badge/Telegram-943636?style=for-the-badge&logo=telegram&logoColor=C3BA9F" />
+    <img src="https://img.shields.io/badge/Telegram-BA0233?style=for-the-badge&logo=telegram&logoColor=C3BA9F" />
   </a>
 </p>
 
