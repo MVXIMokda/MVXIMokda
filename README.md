@@ -5,7 +5,7 @@
     </p>
 
 <p align="center" boarder="0">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=170&color=BA0233&text=About%20me&fontColor=E6E7EB&fontSize=70" width="60%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=170&color=C92243&text=About%20me&fontColor=E6E7EB&fontSize=70" width="60%"/>
 </p>
 
 <p align="left" boarder="0" >
@@ -23,14 +23,14 @@
 
 <p align="center">
   <a href="https://t.me/MVXIMokda">
-    <img src="https://img.shields.io/badge/Telegram-BA0233?style=for-the-badge&logo=telegram&logoColor=C3BA9F" />
+    <img src="https://img.shields.io/badge/Telegram-79BBDA?style=for-the-badge&logo=telegram&logoColor=000000&color=8ed2df" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=170&color=BA0233&text=Languages%20and%20Tools&fontColor=E6E7EB&fontSize=60" width="60%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=170&color=C92243&text=Languages%20and%20Tools&fontColor=E6E7EB&fontSize=60" width="60%"/>
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=170&color=BA0233&text=My%20Workspace&fontColor=E6E7EB&fontSize=60" width="60%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=170&color=C92243&text=My%20Workspace&fontColor=E6E7EB&fontSize=60" width="60%"/>
 </p>
 
 <table align="center">
@@ -59,6 +59,12 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://music.yandex.ru/playlists/5f0aaab0-2e44-7209-a38a-fee21345f047?utm_source=desktop&utm_medium=copy_link">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=tokyonight&show_owner=true&title_color=943636&icon_color=943636" width="0" height="0" /> <img src="https://capsule-render.vercel.app/api?type=rounded&height=100&color=181818&text=▶%20My%20Playlist&fontColor=E6E7EB&fontSize=40" width="60%" />
+  </a>
+</p>
 
 ![snake gif](https://github.com/MVXIMokda/MVXIMokda/blob/output/github-snake-dark.svg)
 
