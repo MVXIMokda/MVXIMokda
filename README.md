@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,docker,python,postgres,redis,figma,arch,git,kafka&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=go,docker,python,postgres,redis,arch,git,kafka&theme=dark" />
   </a>
 </p>
 
@@ -47,14 +47,14 @@
 <table align="center">
   <tr>
     <td align="left">
-      <b> Laptop:</b> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhhcHZwZ2l5dW91eDBtdXdieWJ4MTBrN2t4NjNueDVwdDhoeDlsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vUxZg4gUVf9Ep7IJ4u/giphy.gif" width="20"> MacBook M3<br>
-      <b> RAM:</b> 16GB <br>
-      <b> ROM:</b> 512GB <br>
-    </td>
-    <td align="left">
       <b>Desktop:  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxqZGpwaGd6OHd0MnFreHoybGw5d3lrbXNpbzYwdXoxcnFiazNtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j4ABaI9BWdpYNI9ric/giphy.gif" width="30">  </b> i7-14700K | RTX 4070 Super <br>
       <b>RAM:</b> 32GB DDR5 7000MHz <br>
       <b>OS:</b> Linux <br>
+    </td>
+    <td align="left">
+      <b> Laptop:</b> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhhcHZwZ2l5dW91eDBtdXdieWJ4MTBrN2t4NjNueDVwdDhoeDlsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vUxZg4gUVf9Ep7IJ4u/giphy.gif" width="20"> MacBook M3<br>
+      <b> RAM:</b> 16GB <br>
+      <b> ROM:</b> 512GB <br>
     </td>
   </tr>
 </table>
