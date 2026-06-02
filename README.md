@@ -53,9 +53,9 @@
       <b>OS:</b> Linux <br>
     </td>
     <td align="left">
-      <b> Laptop:</b> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhhcHZwZ2l5dW91eDBtdXdieWJ4MTBrN2t4NjNueDVwdDhoeDlsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vUxZg4gUVf9Ep7IJ4u/giphy.gif" width="20"> MacBook M3<br>
-      <b> RAM:</b> 16GB <br>
-      <b> ROM:</b> 512GB <br>
+      <b> Laptop:</b> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhhcHZwZ2l5dW91eDBtdXdieWJ4MTBrN2t4NjNueDVwdDhoeDlsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vUxZg4gUVf9Ep7IJ4u/giphy.gif" width="20"> MacBook Pro 14' M2 PRO<br>
+      <b> RAM:</b> 32GB <br>
+      <b> ROM:</b> 1024GB <br>
     </td>
   </tr>
 </table>
